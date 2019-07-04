@@ -1,0 +1,9 @@
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\AndroidApp.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\Java.Interop.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\Mono.Android.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\mscorlib.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\System.Core.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\System.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\System.Xml.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Release\android\assets\System.ServiceModel.Internals.dll

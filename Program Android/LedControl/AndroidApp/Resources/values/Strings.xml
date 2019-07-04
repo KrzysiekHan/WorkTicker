@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">AndroidApp</string>
+    <color name="defaultBackground">#f0f0f0</color>
+    <color name="black">#000000</color>
+  <color name="defaultTextColor">#0095a1</color>
+  <color name="editTextColor">#00bd0d</color>
+</resources>

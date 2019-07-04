@@ -1,0 +1,94 @@
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\AndroidApp.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\AndroidApp.pdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\AndroidApp.AndroidApp.apk
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\AndroidApp.AndroidApp-Signed.apk
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\AndroidApp.dll
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\AndroidApp.pdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\bin\AndroidApp.AndroidApp.apk
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\layout\main.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\values\strings.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\icon.png
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\R.cs.flag
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\uploadflags.txt
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\values\styles.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\add.png
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\menu\topmenu.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\logo.png
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\logobig.png
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\layout\addnew.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\layout\paireddeviceadapter.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\btnsend.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\res\drawable\resetbtn.xml
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\AndroidApp.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\Java.Interop.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\Mono.Android.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\mscorlib.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.Core.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.Net.Http.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.Xml.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\bin\Debug\System.Xml.Linq.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\AndroidApp.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\mscorlib.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.Core.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.Xml.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+F:\Visual Studio Projects\LedControl\AndroidApp\obj\Debug\AndroidApp.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\AndroidApp.dll
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\AndroidApp.pdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\LC.AndroidApp.apk
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\LC.AndroidApp-Signed.apk
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\AndroidApp.csprojResolveAssemblyReference.cache
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\AndroidApp.dll
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\AndroidApp.pdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\bin\LC.AndroidApp.apk
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\layout\addnew.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\layout\paireddeviceadapter.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\values\styles.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\add.png
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\logo.png
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\menu\topmenu.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\logobig.png
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\btnsend.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\res\drawable\resetbtn.xml
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\R.cs.flag
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\uploadflags.txt
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\AndroidApp.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\Java.Interop.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\Mono.Android.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\mscorlib.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.Core.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.Xml.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\AndroidApp.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\obj\Debug\AndroidApp.dll.mdb
+C:\Users\krzysiek\Desktop\Projekty\LedControl\LedControl\AndroidApp\bin\Debug\AndroidApp.dll.mdb

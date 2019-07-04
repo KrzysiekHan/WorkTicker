@@ -1,0 +1,10 @@
+/out:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\intermediate\SgGenerated\\"
+/int:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\intermediate\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\intermediate\TransformedSRWR\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\in\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\in\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\ARM\ilc\lib\Private\\"
+/ref:"F:\Visual Studio Projects\LedControl\WindowsApp\obj\ARM\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib
